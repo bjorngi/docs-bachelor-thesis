@@ -1,0 +1,160 @@
+\documentclass[12pt,norsk,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{url}
+\usepackage{biblatex}
+\usepackage{tabularx}
+\usepackage[]{booktabs}
+
+
+\bibliography{references.bib}
+
+
+\title{Vision Document}
+\author{Bjørn Gilstad \\
+  Høgskolen i Sør-Trøndelag\\
+}
+\date{\today}
+
+\documentclass[12pt]{article}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+Our houses are dumb. We leave them with light, heat, TV and other devices on, and it does nothing about
+it! The amount of electricity wasted on an empty house I believe to be very high, and the only way to
+make people turn down their heat and off their lights before leaving is to do it for them.
+
+There is a growing trend to making houses ``smart'', but there is a significant cost of entry when
+doing so. This cost includes expensive commercial home automation system and then pay someone to
+redo your electrical system to accommodate for this new system. After revamping your house with this
+new fancy home automation system, you are pretty much destined to live there for a long time to get
+return on your investment.
+
+
+\subsection{Purpose}
+The purpose of this document is to get a high-level overview of the final product and chart
+stakeholders
+ 
+
+\subsection{Definitions, Acronyms and Abbreviations}
+\begin{description}
+  \item[Tets] test
+\end{description}
+
+\subsection{References}
+
+\subsection{Overview}
+
+\section{Positioning}
+\subsection{Business Opportunity}
+Home automation is growing fast. Over the last 5 years
+
+\subsection{Problem Statement}
+\begin{tabularx}{\textwidth}{lX}
+\toprule
+The problem of & the cost of entry and mobility of home automation \\
+\midrule
+the impact of which is & people who want to automate their home have to make a big commitment
+financially. \\
+\midrule
+a successful solution would be & a home automation system that is affordable, have the possibility
+to convert homes incrementally and is portable when moving. \\
+\bottomrule
+\end{tabularx}
+
+\subsection{Product Position Statement}
+\begin{tabularx}{\textwidth}{lX}
+\toprule
+For & home occupants \\
+\midrule
+
+which & want to automate aspects of their living situation \\
+\midrule
+
+YourHome & software solution for automating homes \\
+
+\midrule
+That & is easy to use and set up. YourHome is using a widely available automation hardware standard
+(Z-wave) that comes with a wide variety of options to automate several aspects of a residence. \\
+
+\midrule
+Unlike & home automation systems that you have to install in your home using a professional and is
+fitted to the house. \\
+
+\midrule
+Our product & make it easy to start out automating a home, and is flexible enough to make it easy to
+bring it when changing residence \\
+\bottomrule
+\end{tabularx}
+
+\section{Stakeholder and User Description}
+\subsection{Market Demographics}
+Home occupants renting or not staying in their permanent residence that wants to bring in aspects of
+home automation in their home or full home automation. The market is people who wants a low cost of entry home
+automation system that could be incrementally expanded and moved to a new residence.
+
+\subsection{Stakeholder Summery}
+
+\subsection{User Summery}
+
+\subsection{User Enviroment}
+
+\subsection{Stakeholder Profiles}
+
+\subsubsection{-- Stakeholder name --}
+
+\subsection{User Profiles}
+
+\subsubsection{-- User Name --}
+
+\subsection{Key Stakeholders and User Needs}
+
+\subsection{Alternatives and Competition}
+
+\subsubsection{-- Competetor --}
+
+\section{Product Overview}
+
+\subsection{Product Perspective}
+
+\subsection{Summary of Capabilities}
+
+\subsection{Assumptions and Dependencies}
+
+\subsection{Cost and Pricing}
+
+\subsection{Licensing and Installation}
+
+\section{Product Features}
+
+\subsection{-- feature --}
+
+\section{Constraints}
+
+\section{Quality Ranges}
+
+
+\section{Precedence and Priority}
+
+\section{Other Product Requirements}
+\subsection{Applicable Standards}
+
+\subsection{Performance Requirements}
+
+\subsection{Environmental Requirements}
+
+
+\section{Documentation Requirements}
+\subsection{User Manual}
+
+\subsection{Online Help}
+
+\subsection{Performance Requirements}
+
+\subsection{Labeling and Packaging}
+
+
+\printbibliography{}
+\end{document}
